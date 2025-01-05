@@ -1,25 +1,18 @@
-# Library Management System
+# lib-management
+ 
+# Library Management System (GUI-Based)
 
-A simple web-based library management system built using HTML, CSS, and JavaScript.
+## Overview
+A Java-based Library Management System with a graphical user interface (GUI) for managing books, users, and book issuance.
 
 ## Features
-
-- Add new books to the library.
-- View a list of added books.
-- Remove books from the list.
+- Add books and users.
+- Search for books.
+- Issue books to users.
+- Validate user inputs.
+- Robust error handling and user feedback.
 
 ## How to Run
-
 1. Clone the repository:
-    ```bash
-    git clone <repository-url>
-    ```
-2. Open the `index.html` file in any modern web browser.
-
-## Project Structure
-
-|-- index.html # Main HTML file |-- styles.css # Styles for the project |-- script.js # JavaScript functionality |-- README.md # Project documentation
-
-## License
-
-This project is licensed under the MIT License.
+   ```bash
+   git clone https://github.com/yourusername/Library-Management-System.git
